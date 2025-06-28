@@ -1,0 +1,8 @@
+#steps to acces the {GetApi} and {PostForm} components 
+step 1:- clone the repository
+step 2:- open the src folder
+step 3:- the GetApi and PostForm files are visible , access any of it in order to make a use of 
+step 4:- under the app components (App.js) , comment out a file not to be used 
+step 5:- run 'npm start' in your terminal 
+
+you can access and make changes accordingly
